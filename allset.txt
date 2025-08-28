@@ -1,1 +1,0 @@
-I Cole Godfrey, hereby declare that I am all set to write c++ code for linux and push the code to GitHub from my command line.
